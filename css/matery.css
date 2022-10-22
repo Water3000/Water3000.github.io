@@ -383,7 +383,7 @@ header .side-nav .social-link {
     border: 1px solid #fff;
     background-color: transparent;
     border-radius: 30px;
-    box-shadow: none;
+    box-shadow: box-shadow: 10px 10px 5px #fff;
 }
 
 .cover-btns a:hover {
